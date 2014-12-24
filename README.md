@@ -1,5 +1,5 @@
-countdown
-=========
+JavaScript Countdown
+====================
 
 Did this for a site effect. It's as basic as it can get :-)
 
